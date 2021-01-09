@@ -36,6 +36,7 @@ from typing import List
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+        # Time: O(n),​ Space: O(n)
         dic = {}
         for i in range(len(nums)) :
             if nums[i] in dic :
@@ -43,10 +44,9 @@ class Solution:
             else :
                 dic[target-nums[i]] = i
         
-### Test case
-
+### Test
 class TestSolution(unittest.TestCase):
-    def test_none_0(self):
+    def test_0(self):
         # input
         n = [3,2,4]
         t = 6
