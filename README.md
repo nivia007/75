@@ -30,7 +30,7 @@
 
 ---
 
-### Dynamic Programming
+## Dynamic Programming
 
 | **Status** | **Title**                                                                                       | **Solution** | **Difficulty** |
 |:----------:|:-----------------------------------------------------------------------------------------------:|:------------:|:--------------:|
@@ -63,7 +63,7 @@
 
 ---
 
-### Interval
+## Interval
 
 | **Status** | **Title**                                                                             | **Solution** | **Difficulty** |
 |:----------:|:-------------------------------------------------------------------------------------:|:------------:|:--------------:|
@@ -89,7 +89,7 @@
 
 ---
 
-### Matrix
+## Matrix
 
 | **Status** | **Title**                                                             | **Solution** | **Difficulty** |
 |:----------:|:---------------------------------------------------------------------:|:------------:|:--------------:|
@@ -101,25 +101,25 @@
 
 ---
 
-### String
+## String
 
 | **Status** | **Title**                                                                                                                       | **Solution** | **Difficulty** |
 |:----------:|:-------------------------------------------------------------------------------------------------------------------------------:|:------------:|:--------------:|
-| ✅         | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/pul-kit/75/blob/main/src/longest-substring-without-repeating-characters.py             | Medium         |
+| ✅         | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/pul-kit/75/blob/main/src/longest-substring-without-repeating-characters.py)             | Medium         |
 | ⬜️         | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)               |              | Medium         |
 | ⬜️         | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                             |              | Hard           |
 | ⬜️         | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   |              | Easy           |
 | ⬜️         | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 |              | Medium         |
 | ⬜️         | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           |              | Easy           |
 | ⬜️         | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             |              | Easy           |
-| ✅         | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   | [Python](https://github.com/pul-kit/75/blob/main/src/longest-palindromic-substring.py             | Medium         |
+| ✅         | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   | [Python](https://github.com/pul-kit/75/blob/main/src/longest-palindromic-substring.py)             | Medium         |
 | ⬜️         | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 |              | Medium         |
 | ⬜️         | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) :moneybag:                                |              |                |
 
 
 ---
 
-### Tree
+## Tree
 
 | **Status** | **Title**                                                                                                                                             | **Solution** | **Difficulty** |
 |:----------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:------------:|:--------------:|
@@ -140,7 +140,7 @@
 
 ---
 
-### Heap
+## Heap
 
 | **Status** | **Title**                                                                                   | **Solution** | **Difficulty** |
 |:----------:|:-------------------------------------------------------------------------------------------:|:------------:|:--------------:|
