@@ -34,10 +34,10 @@
 
 | **Status** | **Title**                                                                                       | **Solution** | **Difficulty** |
 |:----------:|:-----------------------------------------------------------------------------------------------:|:------------:|:--------------:|
-| ⬜️         | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                               |              | Easy           |
-| ⬜️         | [Coin Change](https://leetcode.com/problems/coin-change/)                                       |              | Medium         |
-| ⬜️         | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |              | Medium         |
-| ⬜️         | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)         |              | Medium         |
+| ✅         | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                               | [Python](https://github.com/pul-kit/75/blob/main/src/climbing-stairs.py)              | Easy           |
+| ✅         | [Coin Change](https://leetcode.com/problems/coin-change/)                                       | [Python](https://github.com/pul-kit/75/blob/main/src/coin-change.py)              | Medium         |
+| ✅         | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](https://github.com/pul-kit/75/blob/main/src/longest-increasing-subsequence.py)              | Medium         |
+| ✅         | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)         | [Python](https://github.com/pul-kit/75/blob/main/src/longest-common-subsequence.py)              | Medium         |
 | ⬜️         | [Word Break Problem](https://leetcode.com/problems/word-break/)                                 |              | Medium         |
 | ⬜️         | [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)                            |              | Medium         |
 | ⬜️         | [House Robber](https://leetcode.com/problems/house-robber/)                                     |              | Medium         |
