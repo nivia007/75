@@ -33,4 +33,30 @@ from typing import List
 
 class Solution:
     def maxArea(self, height: List[int]) -> int:
+        i=0
+        j=len(height)-1
+        maxArea = 0
+        while i<j:
+            if height[i] < height[j]:
+                maxArea = max(maxArea, (j-i)*height[i])
+                i+=1
+            else:
+                maxArea = max(maxArea, (j-i)*height[j])
+                j-=1
+        return maxArea
+
+### Test
+class TestSolution(unittest.TestCase):
+    def test_0(self):
+        # input
+        n = [4,3,2,1,4]
+        # output
+        r = 16
+        self.assertEqual(Solution().maxArea(n), r)
+
+if __name__ == "__main__":
+    unittest.main()        
         
+        
+
+
