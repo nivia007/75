@@ -5,7 +5,7 @@
 
 | **Status** | **Title**                                                                                                   | **Solution** | **Difficulty** |
 |:----------:|:-----------------------------------------------------------------------------------------------------------:|:------------:|:--------------:|
-| ✅         | [Two Sum](https://leetcode.com/problems/two-sum/)                                                           | [Python](https://github.com/pul-kit/75/blob/main/src/two-sum.py)            | <span style="color:green">Easy</span>                 |
+|  ✅        | [Two Sum](https://leetcode.com/problems/two-sum/)                                                           | [Python](https://github.com/pul-kit/75/blob/main/src/two-sum.py)            | <span style="color:green">Easy</span>                 |
 | ✅         | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)           | [Python](https://github.com/pul-kit/75/blob/main/src/best-time-to-buy-and-sell-stock.py)             | <span style="color:green">Easy</span>              |
 | ✅         | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                     | [Python](https://github.com/pul-kit/75/blob/main/src/contains-duplicate.py)             | <span style="color:green">Easy</span>                 |
 | ✅         | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                 | [Python](https://github.com/pul-kit/75/blob/main/src/product-of-array-except-self.py)             | <span style="color:orange">Medium</span>              |
