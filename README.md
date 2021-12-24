@@ -123,7 +123,7 @@
 
 | **Status** | **Title**                                                                                                                                             | **Solution** | **Difficulty** |
 |:----------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:------------:|:--------------:|
-| ⬜️         | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                           |              | Easy           |
+|✅        | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                           |              | Easy           |
 | ⬜️         | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                 |              | Easy           |
 | ⬜️         | [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                                          |              | Easy           |
 | ⬜️         | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                           |              | Hard           |
